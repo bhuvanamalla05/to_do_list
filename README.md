@@ -1,4 +1,4 @@
-                                      ![todo_img](https://github.com/user-attachments/assets/25c74769-a90a-4334-878c-e80d652a1a3c)
+
 
 # to_do_list 
 
