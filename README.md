@@ -32,17 +32,19 @@ Here's how you can use the TodoList to manage your tasks efficiently:
    
 2. Modify Tasks: Click on the task you want to rename, edit the text, and press "Enter" to save the changes.
 
-    ![modify](https://github.com/user-attachments/assets/15c2fcdd-bdf6-4fc5-a9ea-989ca99682c6)
+   ![modify](https://github.com/user-attachments/assets/15c2fcdd-bdf6-4fc5-a9ea-989ca99682c6)
 
 3. Update Tasks: Click the checkbox next to a task to mark it as done.
 
-    ![update](https://github.com/user-attachments/assets/b9dc1a0e-8bc1-41ca-a2ee-32d248202124)
+   ![update](https://github.com/user-attachments/assets/b9dc1a0e-8bc1-41ca-a2ee-32d248202124)
 
 4.Scroll Tasks: If you have many tasks, you can scroll through the list to view them all.
-  
-    ![scroll](https://github.com/user-attachments/assets/fb6fc69d-0501-4770-80b9-2484aa91fb70)
+
+  ![scroll](https://github.com/user-attachments/assets/6eddc2d0-98a2-4efd-a1ae-8d868f131f23)
 
 5. Delete Tasks: Click the "Delete All" button to delete all tasks from the list.
+
+   ![image](https://github.com/user-attachments/assets/df6574d0-52c4-444f-a39d-5627a263161c)
 
 # Requirements
 
