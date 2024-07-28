@@ -1,6 +1,5 @@
-                                    ![list](https://github.com/user-attachments/assets/097a67b5-2cd8-4a3a-a03f-f202117e5b12)
-
-                                    
+                     ![list](https://github.com/user-attachments/assets/5e16e360-3f9d-41dd-86b5-56f45ac6ac0d)
+                               
 
 # to_do_list 
 
