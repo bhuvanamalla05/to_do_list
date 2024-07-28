@@ -5,10 +5,15 @@ So here is my TodoList you can try managing your taks with the help of it : http
 
 # Features 
 .can Add Tasks
+
 .Modify(Rename the tasks)
+
 .Update the tasks (if done)
+
 .Delete all the Tasks(clear the tasks from the list)
+
 .It gives the total count of the tasks
+
 .And if there are many you can scroll them
 
 # Requirements
