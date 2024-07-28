@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/63563245-2a27-4c37-97ca-a9934a3a77a4" alt="list">
 </div>
 
-<h1 align="center">to_do_list</h1>
+<h1 align="center">To Do List(Made managing tasks easy!)</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
